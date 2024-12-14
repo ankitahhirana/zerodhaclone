@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+}
+.navbar{
+    display: flex;
+    padding-top:10px;
+    padding-bottom: 12px;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 2px 1px 1px #eee;
+    box-sizing: border-box;
+    
+}
+#logo{
+    height: 18px;
+    
+}
+.links{
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    font-family: "Inter", serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #424242;
+}
+main .anki{
+    padding-top: 60px;
+    display: flex;
+    height: 45vh;
+    width: 100vw;
+    justify-content: center;
+    
+}
